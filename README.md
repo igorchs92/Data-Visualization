@@ -1,1 +1,2 @@
-# Data-Visualization
+# Applied Data Science - Data Visualization
+The project for this course is developing an engaging interactive data Visualization, based on a data set that tells a story and allows the reader to explore.
